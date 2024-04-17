@@ -1,6 +1,7 @@
 ### Project Name : Django RBAC Employee Management System With API
 
-- Repo : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API
+- Repo : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API main Repo
+- Repo Version apiV1 or 1.1.1 : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API/tree/main/EmployeeManagementSystem/apiV1
 
 ---
 
@@ -31,19 +32,15 @@ Table Of Content
 
    - Architecture
 
-     - [HLD](#t4_2_1)
+     - [Django MVT Architecture](#t4_2_1)
 
-     - [LLD](#t4_2_2)
+     - [Django Rest FrameWork Architecture](#t4_2_2)
 
-   - [Implementation Details](#t4_3)
+5. [Challenges & Solution](#t6)
 
-5. [Time Line](#t5)
+6. [Advantages and Disadvantages](#t7)
 
-6. [Challenges & Solution](#t6)
-
-7. [Advantages and Disadvantages](#t7)
-
-8. [Prepare for Follow-up Questions](#t8)
+7. [Prepare for Follow-up Questions](#t8)
 
    - Technical Decisions: Be prepared to justify why you chose a particular technology or approach.
 
@@ -142,3 +139,29 @@ Domain : HR , Hiring Manager , Employee Manger
 1. Set Up URLs or EndPoints
 
 1. Finally All Steps are Done | Testing...
+
+---
+
+### Django Architecture
+
+<a name='t4_2_1'></a>
+
+![One Numan | Django Rest Framwork  Employee Management System Project](./assets/django_flow.png)
+
+Image Credits goes to [Geeks For Geeks](https://www.geeksforgeeks.org/django-rest-api-crud-with-drf/)
+
+### Django Rest FrameWork Architecture
+
+<a name='t4_2_2'></a>
+
+![One Numan | Django Rest Framwork  Employee Management System Project](./assets/django_rest_framwork.png)
+
+Image Credits goes to [bezkoder](https://www.bezkoder.com/django-rest-api/)
+
+---
+
+### Challenges & Solution
+
+<a name='t5'></a>
+
+1. Please
