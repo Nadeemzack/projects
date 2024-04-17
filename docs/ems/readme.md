@@ -164,4 +164,29 @@ Image Credits goes to [bezkoder](https://www.bezkoder.com/django-rest-api/)
 
 <a name='t5'></a>
 
-1. Please
+1. I was forget to added `rest_framework` in the `settings.py`
+
+   - Please added `rest_framework` in the `settings.py`
+
+   - After Install Django Rest Framework
+
+   - Go the Project_dir/Project_dir
+   - There is `settings.py` (One and Only Setting.py File in The Django Project)
+   - Inside the File There and List
+
+   ```python
+
+      INSTALLED_APPS = [
+         ...
+         'rest_framework'
+      ]
+   ```
+
+   - Please Write Correct Syntax Otherwise Its Raise Major Challenge
+
+2. **ThumbRule** Before Write Code First Check Correct File
+   - _In Django multiple files have same name ._
+   - _When Your Write or Edit File_
+     - **Please** Check your file name and Its Parent Directory\_
+     - Then Write your code
+     - If your forget the ThumbRule and do wrong . Its Hurts
