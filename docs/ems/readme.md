@@ -146,7 +146,7 @@ Domain : HR , Hiring Manager , Employee Manger
 
 <a name='t4_2_1'></a>
 
-![One Numan | Django Rest Framwork  Employee Management System Project](./assets/django_flow.png)
+![One Numan  Django Rest Framwork  Employee Management System Project](./assets/django_flow.png)
 
 Image Credits goes to [Geeks For Geeks](https://www.geeksforgeeks.org/django-rest-api-crud-with-drf/)
 
@@ -154,7 +154,7 @@ Image Credits goes to [Geeks For Geeks](https://www.geeksforgeeks.org/django-res
 
 <a name='t4_2_2'></a>
 
-![One Numan | Django Rest Framwork  Employee Management System Project](./assets/django_rest_framwork.png)
+![One Numan  Django Rest Framwork  Employee Management System Project](./assets/django_rest_framwork.png)
 
 Image Credits goes to [bezkoder](https://www.bezkoder.com/django-rest-api/)
 
