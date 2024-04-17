@@ -1,3 +1,16 @@
+## List Of Personal Project
+
+| Name               | Technology          | Repo | Host Link |
+| ------------------ | ------------------- | ---- | --------- |
+| All QR Generator   | Android/Kotlin      |      |           |
+| EMS                | Django-DRF          |      |           |
+| IP Checker         | Flask               |      |           |
+| QR Generator       | Flask               |      |           |
+| Chat Application   | Socket/Flask        |      |           |
+| Eparisksha         | PHP5                |      |           |
+| IQTM               | Java/JSwing/JApplet |      |           |
+| Mini Dictionary V1 | Vanila JS           |      |           |
+
 ### Explain Project in the Interview
 
 1. Name of project , Domain , Target Audience
