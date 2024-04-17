@@ -12,6 +12,8 @@
 
    - **Your Role**: What specific responsibilities and tasks did you handle?
 
+   - **Total Team Member** : How many Team Member
+
 3. Project Discription in Detail
 
    - **Project Flow**
