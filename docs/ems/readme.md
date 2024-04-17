@@ -87,7 +87,7 @@ Domain : HR , Hiring Manager , Employee Manger
   | HTML                   | 5       |
   | CSS                    | 3       |
   | JS                     | ES6     |
-  | Bootstrap              | 5       |
+  | Bootstrap              | 5.2     |
 
 - Back-End
   <a name='t3_2'></a>
@@ -95,8 +95,8 @@ Domain : HR , Hiring Manager , Employee Manger
   | Backend-End Technologies | Version |
   | ------------------------ | ------- |
   | Python                   | 3.10.8  |
-  | Django                   | 5       |
-  | Django Rest Framework    | 3       |
+  | Django                   | 4.2.8   |
+  | Django Rest Framework    | 3.44    |
 
 - DB & Develoyment
   <a name='t3_3'></a>
