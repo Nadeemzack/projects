@@ -36,6 +36,4 @@
 
    - **Project Management**: Discuss how the project was planned, monitored, and delivered. Mention any use of methodologies like Agile or Scrum.
 
-[Another ](../write_project_in_github.md)
-[Another2 ](./write_project_in_github.md)
-[Another3 ](/write_project_in_github.md)
+[write_project_in_github](./write_project_in_github.md)
