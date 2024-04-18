@@ -1,6 +1,4 @@
-## Sample Structure
-
-### Project Name : Django RBAC Employee Management System With API
+### Project Name : QR Generator
 
 - Repo :
 
