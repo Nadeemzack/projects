@@ -39,7 +39,7 @@ Table Of Content
 
 ### Purpose of Project
 
-    <a name='t2'></a>
+<a name='t2'></a>
 
 - Learning , Build and Deployed
 - Technologies evolves and Android is a market leader of Mobiles.
@@ -79,7 +79,7 @@ Table Of Content
   - Access Button , Text Field and Images though ID
   - Write Bussiness Logic Call Library and Performs Logic
 - Add App Logo
-- Run and Test
+- Create `.apk` Run and Test
 - Generate Java KeyStore .jks : that help to update my app
 - Generate Signed Bundle `abb` and Deployed on PlayStore
 
