@@ -1,5 +1,9 @@
 ### Project Name : Mini Dictionary _version_1_
 
+#### Repo URL : [_view_](https://github.com/one-numan/Mini-Dictionary1)
+
+#### Live Host : [_view_](https://one-numan.github.io/Mini-Dictionary1/)
+
 ---
 
 Table Of Content
@@ -7,31 +11,15 @@ Table Of Content
 1. [Name of project , Domain , Target Audience](#t1)
 2. [Purpose of Project](#t2)
 
-   - [The Objective:](#t2_1)
-
-   - [The Scope:](#t2_2)
-
-   - [The Technologies Used](#t2_3)
-
-   - [My Role:](#t2_4)
-
 3. [Tools and Technologies](#t3)
 
-   - [Front-End](#t3_1)
-
-   - [Back-End](#t3_2)
+   - [Technologies](#t3_1)
 
    - [DB & Develoyment](#t3_3)
 
 4. [Project Discription in Detail](#t4)
 
    - [Project Building Flow](#t4_1)
-
-   - Architecture
-
-     - [Django MVT Architecture](#t4_2_1)
-
-     - [Django Rest FrameWork Architecture](#t4_2_2)
 
 5. [Challenges & Solution](#t6)
 
@@ -92,7 +80,7 @@ Target Audience :
 
 <a name='t4'></a>
 
-#### Execution Flow
+#### Project Building Flow
 
 1.  Create HTML , CSS , JS Files
 

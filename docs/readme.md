@@ -1,15 +1,15 @@
 ## List Of Personal Project
 
-| Name               | Technology          | Repo                           | Host Link |
-| ------------------ | ------------------- | ------------------------------ | --------- |
-| All QR Generator   | Android/Kotlin      |                                |           |
-| EMS                | Django-DRF          | [View](ems/readme.md)          |           |
-| IP Checker         | Flask               | [View](ip_checker/readme.md)   |           |
-| QR Generator       | Flask               | [View](qr_generator/readme.md) |           |
-| Chat Application   | Socket/Flask        |                                |           |
-| Eparisksha         | PHP5                |                                |           |
-| IQTM               | Java/JSwing/JApplet |                                |           |
-| Mini Dictionary V1 | Vanila JS           |                                |           |
+| Name               | Technology          | Repo                              | Host Link |
+| ------------------ | ------------------- | --------------------------------- | --------- |
+| All QR Generator   | Android/Kotlin      |                                   |           |
+| EMS                | Django-DRF          | [View](ems/readme.md)             |           |
+| IP Checker         | Flask               | [View](ip_checker/readme.md)      |           |
+| QR Generator       | Flask               | [View](qr_generator/readme.md)    |           |
+| Chat Application   | Socket/Flask        |                                   |           |
+| Eparisksha         | PHP5                |                                   |           |
+| IQTM               | Java/JSwing/JApplet |                                   |           |
+| Mini Dictionary V1 | Vanila JS           | [view](mini_dictionary/readme.md) |           |
 
 ---
 
@@ -45,12 +45,6 @@ Table Of Content
 4. [Project Discription in Detail](#t4)
 
    - [Project Building Flow](#t4_1)
-
-   - Architecture
-
-     - [Django MVT Architecture](#t4_2_1)
-
-     - [Django Rest FrameWork Architecture](#t4_2_2)
 
 5. [Challenges & Solution](#t6)
 
