@@ -1,7 +1,8 @@
 ### Project Name : Django RBAC Employee Management System With API
 
-- Repo : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API main Repo
-- Repo Version apiV1 or 1.1.1 : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API/tree/main/EmployeeManagementSystem/apiV1
+- Repo : [_view_](https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API) Main Repo
+- Repo Version apiV1 or 1.1.1 : [_view_](https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API/tree/main/EmployeeManagementSystem/apiV1)
+- Live host URL : [_view_](https://onenuman3.pythonanywhere.com/)
 
 ---
 
