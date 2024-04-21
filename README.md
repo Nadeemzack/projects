@@ -1,60 +1,103 @@
-# Example Template
+## Sample Structure
 
-The introduction summarizes the purpose and function of the project, and should be concise (a brief paragraph or two). This introduction may be the same as the first paragraph on the project page.
+### Project Name :
 
-For a full description of the module, visit the
-[project page](https://www.drupal.org/project/admin_menu).
+- Repo :
+- Live Host :
 
-Submit bug reports and feature suggestions, or track changes in the
-[issue queue](https://www.drupal.org/project/issues/admin_menu).
+---
 
+Table Of Content
 
-## Table of contents (optional)
+1. [Name of project , Domain , Target Audience](#t1)
+2. [Purpose of Project](#t2)
 
-- Requirements
-- Recommended modules
-- Installation
-- Configuration
-- Troubleshooting
-- FAQ
-- Maintainers
+   - [The Objective:](#t2_1)
 
+   - [The Scope:](#t2_2)
 
-## Requirements (required)
+   - [The Technologies Used](#t2_3)
 
-This module requires the following modules:
+   - [My Role:](#t2_4)
 
-- [Bad judgement](https://www.drupal.org/project/bad_judgement)
+3. [Tools and Technologies](#t3)
 
-OR
+   - [Front-End](#t3_1)
 
-This module requires no modules outside of Drupal core.
+   - [Back-End](#t3_2)
 
+   - [DB & Develoyment](#t3_3)
 
-## Recommended modules (optional)
+4. [Project Discription in Detail](#t4)
 
+   - [Project Building Flow](#t4_1)
 
-## Installation (required, unless a separate INSTALL.md is provided)
+5. [Challenges & Solution](#t6)
 
-Install as you would normally install a contributed Drupal module. For further information, see [Installing Drupal Modules](https://www.drupal.org/docs/extending-drupal/installing-drupal-modules).
+6. [Advantages and Disadvantages](#t7)
 
+7. [Prepare for Follow-up Questions](#t8)
 
-## Configuration (required)
+   - Technical Decisions: Be prepared to justify why you chose a particular technology or approach.
 
-1. Enable the module at Administration > Extend.
-1. Profit.
+   - Team Collaboration: Explain how you worked with others, how you communicated, and how decisions were made within the team.
 
+   - Project Management: Discuss how the project was planned, monitored, and delivered. Mention any use of methodologies like Agile or Scrum.
 
-## Troubleshooting (optional)
+---
 
+### Name of project , Domain , Target Audience
 
-## FAQ (optional)
+- Write about Name of project , Domain , Target Audience
 
-**Q: How do I write a module README?**
+<a name='t1'></a>
 
-**A:** Follow this template. It's fun and easy!
+### Purpose of Project
 
+- Write about Purpose of Project
+  <a name='t2'></a>
 
-## Maintainers (optional)
+### Tools and Technologies
 
-- Dries Buytaert - [dries](https://www.drupal.org/u/dries)
+<a name='t3'></a>
+
+- Front-End
+  <a name='t3_1'></a>
+
+  | Front-End Technologies | Version |
+  | ---------------------- | ------- |
+  | HTML                   | 5       |
+  | CSS                    | 3       |
+  | JS                     | ES6     |
+  | Bootstrap              | 5.2     |
+
+- Back-End
+  <a name='t3_2'></a>
+
+  | Backend-End Technologies | Version |
+  | ------------------------ | ------- |
+  | Python                   | 3.10.8  |
+  | Django                   | 4.2.8   |
+  | Django Rest Framework    | 3.44    |
+
+- DB & Develoyment
+  <a name='t3_3'></a>
+
+  | Tools       | Name           |
+  | ----------- | -------------- |
+  | Database    | SQL Lite 3     |
+  | Deployement | PythonAnyWhere |
+
+### Project Discription in Detail
+
+<a name='t4'></a>
+
+#### Project Building Flow | Steps for Building Project
+
+- Write About Project Building Flow | Steps for Building Project
+
+---
+
+### Challenges & Solution
+
+<a name='t5'></a>
