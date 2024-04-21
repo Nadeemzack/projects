@@ -1,0 +1,4 @@
+projects.code-workspace
+
+.venv/
+__pycache__/
