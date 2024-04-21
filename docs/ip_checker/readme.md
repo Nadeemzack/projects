@@ -1,7 +1,7 @@
 ### Project Name : IP Checker
 
-- Repo :
-- Host Url : https://onenuman1.pythonanywhere.com
+- Repo : [_view_](https://github.com/one-numan/ipChecker)
+- Host Url : [_view_](https://onenuman1.pythonanywhere.com)
 
 ---
 
