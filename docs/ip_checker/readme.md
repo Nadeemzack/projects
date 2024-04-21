@@ -1,19 +1,14 @@
-### Project Name :
+### Project Name : IP Checker
 
-- Repo : https://github.com/one-numan/django-RBAC-Employee-Management-System-With-API main Repo
-- Host Url :
+- Repo :
+- Host Url : https://onenuman1.pythonanywhere.com
 
 ---
 
 Table Of Content
 
 1. [Name of project , Domain , Target Audience](#t1)
-2. [Purpose of Project , Goal , Objective ](#t2)
-
-   - [The Technologies Used](#t2_1)
-
-   - [My Role:](#t2_2)
-
+2. [Purpose of Project ](#t2)
 3. [Tools and Technologies](#t3)
 
    - [Front-End](#t3_1)
@@ -29,16 +24,6 @@ Table Of Content
    - [Execution Flow](#t4_2)
 
 5. [Challenges & Solution](#t6)
-
-6. [Advantages and Disadvantages](#t7)
-
-7. [Prepare for Follow-up Questions](#t8)
-
-   - Technical Decisions: Be prepared to justify why you chose a particular technology or approach.
-
-   - Team Collaboration: Explain how you worked with others, how you communicated, and how decisions were made within the team.
-
-   - Project Management: Discuss how the project was planned, monitored, and delivered. Mention any use of methodologies like Agile or Scrum.
 
 ---
 
@@ -101,13 +86,13 @@ My Role : Idea to Execute
 
 <a name='t4_1'></a>
 
-##### 1. Flow : Check Own IP :
+##### 1. Users Flow : Check Own IP :
 
 1. Home Page
 1. Check own IP
 1. HTML Table Give an List of Important Information for IP
 
-##### 2. Flow : Enter Another IP and Check Information :
+##### 2. Users Flow : Enter Another IP and Check Information :
 
 1. Home Page
 1. Enter IP and Click on Search Icons
@@ -128,8 +113,6 @@ My Role : Idea to Execute
                         If No Error will be dictonary_data_of__parameter_and_values
                         That the dictionary_data_ will to send to Client Side
         FrontEnd Side : That Will be represent into Responsive and Beautiful Tables
-
-1.  Deployed in PythonAnyWhere : [View](https://www.onenuman3.pythonanywhere.com)
 
 ---
 
