@@ -1,6 +1,7 @@
 ### Project Name : QR Generator
 
-- Repo :
+- Repo : [_view_](https://github.com/one-numan/QR-Generate)
+- Host : [_view_](https://onenuman2.pythonanywhere.com/)
 
 ---
 
