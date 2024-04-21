@@ -1,6 +1,4 @@
-## Sample Structure
-
-### Project Name : All QR Code Generator
+## Project Name : All QR Code Generator
 
 ### Repo Name : QR-Generate-Android-App
 
