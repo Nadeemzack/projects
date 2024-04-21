@@ -8,15 +8,8 @@
 Table Of Content
 
 1. [Name of project , Domain , Target Audience](#t1)
+
 2. [Purpose of Project](#t2)
-
-   - [The Objective:](#t2_1)
-
-   - [The Scope:](#t2_2)
-
-   - [The Technologies Used](#t2_3)
-
-   - [My Role:](#t2_4)
 
 3. [Tools and Technologies](#t3)
 
@@ -39,14 +32,6 @@ Table Of Content
 5. [Challenges & Solution](#t6)
 
 6. [Advantages and Disadvantages](#t7)
-
-7. [Prepare for Follow-up Questions](#t8)
-
-   - Technical Decisions: Be prepared to justify why you chose a particular technology or approach.
-
-   - Team Collaboration: Explain how you worked with others, how you communicated, and how decisions were made within the team.
-
-   - Project Management: Discuss how the project was planned, monitored, and delivered. Mention any use of methodologies like Agile or Scrum.
 
 ---
 
@@ -190,3 +175,9 @@ Image Credits goes to [bezkoder](https://www.bezkoder.com/django-rest-api/)
      - **Please** Check your file name and Its Parent Directory\_
      - Then Write your code
      - If your forget the ThumbRule and do wrong . Its Hurts
+
+### Advantages and Disadvantages
+
+- Every New have advantage of Previous
+- My Goal is to be solve every disadavantage and add advantages into new version
+  - That version 1.1.1 have no RBAC and security but 1.2 will have RBAC feature and jwt for security purpose
